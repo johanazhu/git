@@ -8,4 +8,4 @@ git add -A 提交 first 的文字修改
 git st 查看stage（舞台）
 git commit -m 'first' 提交到仓库中
 
-# three test
+# three test good
