@@ -1,4 +1,4 @@
-# git
+﻿# git
 git多人开发规范化，版本开发master，dev，dev-0.0.1
 
 # first
@@ -8,3 +8,4 @@ git add -A 提交 first 的文字修改
 git st 查看stage（舞台）
 git commit -m 'first' 提交到仓库中
 
+# three test
